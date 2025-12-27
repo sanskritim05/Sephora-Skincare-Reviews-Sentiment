@@ -108,11 +108,13 @@ cd Sephora-Skincare-Reviews-Sentiment
 
 ### 2) Put the dataset in the right folders
 Your project should include:
+```
 data/
 ├── product_info.csv
 ├── reviews_0-25000.csv
 ├── reviews_25000-50000.csv
 └── reviews_*.csv
+```
 (The review files may be split into multiple chunks depending on the dataset.)
 
 ### 3) Install dependencies
